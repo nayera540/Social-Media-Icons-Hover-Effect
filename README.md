@@ -8,4 +8,9 @@ https://social-media-icons.netlify.app/
 
 ![Screenshot_20230902_172814](https://github.com/nayera540/Social-Media-Icons-Hover-Effect/assets/69148381/c03ff80d-c6a8-4a52-9d88-59d4a331a830)
 
+## Website Video Screenshot:
+
+https://github.com/nayera540/Social-Media-Icons-Hover-Effect/assets/69148381/ad280142-4b91-43a0-a490-d851ec66b160
+
+
 
