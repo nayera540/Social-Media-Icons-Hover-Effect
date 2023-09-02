@@ -51,7 +51,7 @@ h1 {
 
 
 #facebook:hover img{
-    content: url("/Social Media Icons Hover Effect/icons/facebook/icons8-facebook-colored-50.png"); /* Change image source when hovering */
+    content: url("icons/facebook/icons8-facebook-colored-50.png"); /* Change image source when hovering */
 }
 
 #facebook:hover{
@@ -59,7 +59,7 @@ h1 {
 }
 
 #twitter:hover img{
-    content: url("/Social Media Icons Hover Effect/icons/twitter/icons8-twitter-48.png"); /* Change image source when hovering */
+    content: url("icons/twitter/icons8-twitter-48.png"); /* Change image source when hovering */
 }
 
 #twitter:hover{
@@ -67,7 +67,7 @@ h1 {
 }
 
 #instagram:hover img{
-    content: url("/Social Media Icons Hover Effect/icons/instagram/icons8-instagram-48.png"); /* Change image source when hovering */
+    content: url("icons/instagram/icons8-instagram-48.png"); /* Change image source when hovering */
 }
 
 #instagram:hover{
@@ -75,7 +75,7 @@ h1 {
 }
 
 #youtube:hover img{
-    content: url("/Social Media Icons Hover Effect/icons/youtube/icons8-youtube-48.png"); /* Change image source when hovering */
+    content: url("icons/youtube/icons8-youtube-48.png"); /* Change image source when hovering */
 }
 
 #youtube:hover{
@@ -83,7 +83,7 @@ h1 {
 }
 
 #github:hover img{
-    content: url("/Social Media Icons Hover Effect/icons/github/icons8-github-48.png"); /* Change image source when hovering */
+    content: url("icons/github/icons8-github-48.png"); /* Change image source when hovering */
 }
 
 #github:hover{
@@ -91,7 +91,7 @@ h1 {
 }
 
 #linkedin:hover img{
-    content: url("/Social Media Icons Hover Effect/icons/linkedin/icons8-linkedin-48.png"); /* Change image source when hovering */
+    content: url("icons/linkedin/icons8-linkedin-48.png"); /* Change image source when hovering */
 }
 
 #linkedin:hover{
