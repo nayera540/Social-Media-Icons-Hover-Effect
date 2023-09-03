@@ -40,7 +40,7 @@ h1 {
     border-radius: 30px;
 }
 
-#facebook-logo, #twitter-logo, #instagram-logo, #youtube-logo, #github-logo, #linkedin-logo {
+.logo-img{
     display: block;
     width: 60%;
     height: auto;
